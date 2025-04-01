@@ -1,1 +1,2 @@
 create demo1.txt file
+hi thi is gommi
